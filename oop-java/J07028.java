@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class giochuan{
+public class J07028{
     static class MH{
         String code, name;
         public MH(String code, String name){

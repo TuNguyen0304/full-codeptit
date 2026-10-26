@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J01003 {
     public static void main(String[] args){
         Scanner reader = new Scanner(System.in);
         float a = reader.nextFloat(), b = reader.nextFloat();

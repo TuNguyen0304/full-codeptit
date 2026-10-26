@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.ArrayList;
 
-class Imformation{
+class J05072{
     protected String code, name;
     protected int price;
     
@@ -12,7 +12,7 @@ class Imformation{
     }
 }
 
-class Call{
+class J05072{
     private Imformation thongtin;
     private String so, bd, kt;
     int sum;
@@ -44,7 +44,7 @@ class Call{
     }
 }
 
-public class Main {
+public class J05072 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = Integer.parseInt(sc.nextLine());

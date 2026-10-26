@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J02037 {
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         // Scanner sc = new Scanner(new File("ONLINE.in"));
         Scanner sc = new Scanner(System.in);

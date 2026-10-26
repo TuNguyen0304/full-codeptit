@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J03006 {
     static String check(String s){
         int n=s.length();
         for(int i=0;i<n;i++){

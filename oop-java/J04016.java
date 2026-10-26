@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.*;
 
-public class Main {
+public class J04016 {
 
     static class Matrix {
         long[][] a;

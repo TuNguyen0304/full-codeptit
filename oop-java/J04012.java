@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J04012 {
     static int sup(String s) {
         if (s.compareTo("GD") == 0)
             return 250000;

@@ -1,6 +1,6 @@
 import java.util.*;
 import java.text.*;
-public class Main {
+public class J05019 {
 
     static String cleanName(String s) {
         String[] a = s.trim().split("\\s+");

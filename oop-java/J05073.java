@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J05073 {
 
     static double ship(String code, long sum){
         if(code.startsWith("T")) return sum*0.04;

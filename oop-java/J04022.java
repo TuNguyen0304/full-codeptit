@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J04022 {
     static class WordSet {
         TreeSet<String> a;
 

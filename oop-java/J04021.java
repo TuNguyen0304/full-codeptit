@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J04021 {
     static class IntSet {
         TreeSet<Integer> a;
 

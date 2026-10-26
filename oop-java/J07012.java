@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class non {
+public class J07012 {
 
     static class pair {
         String s;

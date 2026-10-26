@@ -1,7 +1,7 @@
 import java.util.*;
 import java.math.*;
 
-public class Main {
+public class J03019 {
     static class pi {
         char c;
         int index;

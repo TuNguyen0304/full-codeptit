@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class non {
+public class J08026 {
     static class pair{
         int x, y;
         public pair(int x, int y){

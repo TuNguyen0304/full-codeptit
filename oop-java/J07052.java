@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
-public class DanhSachTrungTuyen {
+public class J07052 {
     static double diemChuan ;
     private static class ThiSinh implements Comparable<ThiSinh>{
         private String id,name;

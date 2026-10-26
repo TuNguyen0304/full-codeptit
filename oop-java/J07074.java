@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J07074 {
     
     static class lich {
         int thu, kip;

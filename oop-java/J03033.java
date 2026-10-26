@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main{
+public class J03033{
     static BigInteger gcd(BigInteger a, BigInteger b){
         if(b.equals(BigInteger.ZERO)) return a;
         return gcd(b, a.mod(b));

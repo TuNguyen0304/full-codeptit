@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class non {
+public class J02019 {
 
     static int N = 1000000;
     static int[] U = new int[N+2];

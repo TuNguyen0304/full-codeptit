@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Main {
+public class J01011 {
 
     static long gcd(long a, long b){
         if(b==0) return a;

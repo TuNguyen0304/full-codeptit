@@ -2,7 +2,7 @@ package nyagami;
 
 import java.util.*;
 import java.io.*;
-public class test{
+public class J07017{
     
     static boolean prime(Integer x){
         if(x<2) return false;

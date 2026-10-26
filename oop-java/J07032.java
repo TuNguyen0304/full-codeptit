@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class J07032{
     static boolean check(Integer x){
         String s = x.toString();
         for(int i=0;i<s.length()/2;i++){

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 
-public class Main {  
+public class J05058 {  
 
     static String fF(double x){
         if((int) x == x) return String.format("%.0f", x);

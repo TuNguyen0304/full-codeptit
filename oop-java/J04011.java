@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J04011 {
 
     static long def(long a, long b, long c, long d) {
         return a * d - b * c;

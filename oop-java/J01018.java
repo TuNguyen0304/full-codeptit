@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Main {
+public class J01018 {
 
     static String check(String s){
         int sum=s.charAt(0)-'0';

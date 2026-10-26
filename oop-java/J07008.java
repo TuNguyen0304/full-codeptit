@@ -3,7 +3,7 @@ import java.util.TreeSet;
 import java.io.IOException;
 import java.io.File;
 
-public class Main{
+public class J07008{
     static void Try(int start, int num, String r, int[] a, int[] ans, int n, TreeSet<String> ts){
         if(num > 1) ts.add(r);
         if(num == n) return;

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J07056 {
     static String stdName(String s) {
         String[] n = s.toLowerCase().split("[' ']+");
         String r = "";

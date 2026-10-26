@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J05014 {
     static String getSub(String s) {
         if (s.startsWith("A"))
             return "TOAN";

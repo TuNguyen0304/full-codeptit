@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J05017 {
 
     static class ob{
         String code, name;

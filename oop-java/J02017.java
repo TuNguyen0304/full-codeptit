@@ -3,7 +3,7 @@ package nyagami;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class test{
+public class J02017{
     
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);

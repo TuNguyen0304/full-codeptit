@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class non {
+public class J01020 {
     static long ans = (1<<10) - 1;
 
     static void solve(long n){

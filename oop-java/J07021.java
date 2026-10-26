@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.File;
 import java.io.IOException;
-public class Main{
+public class J07021{
     static char up(char x){
         if('a'<=x && x<='z') return (char)((int)x-32);
         return x;

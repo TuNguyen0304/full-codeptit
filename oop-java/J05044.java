@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {  
+public class J05044 {  
     static long sub(String s){
         if(s.compareTo("GD") == 0) return 500;
         if(s.compareTo("PGD") == 0) return 400;

@@ -1,5 +1,5 @@
 import java.util.*;
-public class non {
+public class J03028 {
 
     static int value(String s){
         int cnt = 0;

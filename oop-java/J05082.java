@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 
-public class Main {  
+public class J05082 {  
 
     static String cleanName(String name){
         String[] a = name.trim().split("\\s+");

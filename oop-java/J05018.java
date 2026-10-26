@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class J05018 {
 
     static class o {
         String code, name, type;

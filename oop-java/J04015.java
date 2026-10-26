@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class J04015{
     static int sup(String s){
         if("HT".compareTo(s) == 0) return 2000000;
         if("HP".compareTo(s) == 0) return 900000;

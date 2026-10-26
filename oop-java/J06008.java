@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J06008 {
     static class sub {
         String code, name;
         double sum;

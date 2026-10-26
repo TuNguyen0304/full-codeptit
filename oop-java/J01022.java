@@ -2,7 +2,7 @@ package nyagami;
 
 import java.util.Scanner;
 
-public class test{
+public class J01022{
     
     static long[] f = new long[94];
     

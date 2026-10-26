@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class non {
+public class J03029 {
     static String deli = ".!?";
     static void process(String s){
         if(s.length() == 0) return;

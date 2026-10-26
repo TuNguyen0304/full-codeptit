@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class J05081{
     static class goods{
         public goods(String n, String u, int b, int s,int i){
             name = n;

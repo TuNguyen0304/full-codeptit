@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 
-public class Main{
+public class J07040{
     public static void main(String[] arg)throws IOException, ClassNotFoundException {
         ObjectInputStream o = new ObjectInputStream(new FileInputStream("NHIPHAN.in"));
         ArrayList<String> a = (ArrayList<String>) o.readObject();  

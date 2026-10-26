@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Main {
+public class J02004 {
     static String check(int[] a, int n){
         for(int i=0;i<n;i++){
             if(a[i]!=a[n-i-1]) return "NO";

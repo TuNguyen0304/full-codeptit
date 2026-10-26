@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class J05033{
     static int getSec(int h, int m, int s){
         return h*3600 + m*60 +s;
     }

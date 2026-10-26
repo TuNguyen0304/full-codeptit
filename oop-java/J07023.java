@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J07023 {
     static boolean[] prime = new boolean[10000];
 
     static void sieve() {

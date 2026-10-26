@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class Main{
+public class J07002{
     public static void main(String args[]){
         File x = new File("DATA.in");
         try{

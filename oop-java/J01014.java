@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class J01014 {
 
     static long[] f = new long[2000001];
     

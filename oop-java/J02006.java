@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.TreeSet;
 import java.util.HashSet;
 
-public class test{
+public class J02006{
     
     static boolean has(int[] a, int n, int x){
         for(int i=0;i<n;i++) if(a[i]==x) return true;

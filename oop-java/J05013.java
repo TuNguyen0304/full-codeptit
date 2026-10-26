@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J05013 {
 
     static class ob {
         String code, name, type;

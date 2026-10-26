@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J01013 {
     public static void main(String[] args) throws IOException {
         int M = 2000001;
         int[] p = new int[M];

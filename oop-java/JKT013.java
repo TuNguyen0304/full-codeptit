@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class JKT013 {
     static ArrayList<String> dp = new ArrayList<>();
     static void Try(int i, int n, String s){
         if(!s.isEmpty()) dp.add(s);

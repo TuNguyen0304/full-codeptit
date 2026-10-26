@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 
-public class Main {  
+public class J05055 {  
 
     static class ob {
         String code, name, type, start, end, total;

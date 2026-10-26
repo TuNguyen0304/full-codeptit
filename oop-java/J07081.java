@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J07081 {
     static class ob{
         String first, last, full, msv, sdt, email;
         public ob(String m, String n, String s, String e){

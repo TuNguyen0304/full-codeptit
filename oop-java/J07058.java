@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.TreeSet;
 
-public class Main{
+public class J07058{
     static class sub{
         String code, name, method;
         public sub(String c, String n, String m){

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J03035 {
     
     static long pow(long a, long b){
         if(b==0) return 1;

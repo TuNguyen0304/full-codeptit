@@ -2,7 +2,7 @@ package nyagami;
 
 import java.util.Scanner;
 
-public class test{
+public class J02022{
     static int n;
     static void Try(int i,int[] a, boolean[] vs){
         if(i==n){

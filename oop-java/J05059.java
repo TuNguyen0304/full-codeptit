@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class J05059 {
     static double diemChuan ;
     private static class ThiSinh implements Comparable<ThiSinh>{
         private String id,name;

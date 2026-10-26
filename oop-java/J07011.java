@@ -11,7 +11,7 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-public class ThongKeTuKhacNhauTrongFileVanBan {
+public class J07011 {
 
     public static void main(String[] args) throws IOException {
         Scanner sc=new Scanner(new File("VANBAN.in"));

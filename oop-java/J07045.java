@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 
-public class Main{
+public class J07045{
     static class LoaiPhong implements Comparable<LoaiPhong>{
         String p, name;
         public LoaiPhong(String s){

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class J01012 {
 
     static int count(int n){
         if(n%2==1) return 0;

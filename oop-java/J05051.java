@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {  
+public class J05051 {  
     static long x(String s){
         if(s.compareTo("KD") == 0) return 3;
         if(s.compareTo("NN") == 0) return 5;

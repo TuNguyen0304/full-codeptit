@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 
-public class Main {  
+public class J05067 {  
 
     static String getName(String s){
         if(s.endsWith("BP")) return "British Petro";

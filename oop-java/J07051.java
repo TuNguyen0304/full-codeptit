@@ -4,7 +4,7 @@ import java.io.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
-public class Main{
+public class J07051{
     static String stdName(String s){
         String[] n = s.toLowerCase().split("[' ']+");
         String r = "";

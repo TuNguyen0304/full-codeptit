@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 
-public class Main {  
+public class J05064 {  
 
     static Long x(String s){
         return Long.parseLong(s.substring(2));

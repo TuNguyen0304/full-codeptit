@@ -12,7 +12,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 
-class ThiSinh{
+class J07057{
     private String maTS, hoTen, danToc, khuVuc;
     private float diemThi;
     private static int id = 1;

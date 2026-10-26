@@ -3,7 +3,7 @@ package nyagami;
 import java.util.Scanner;
 import java.util.TreeSet;
 
-public class test{
+public class J02005{
     
     static boolean has(int[] a, int n, int x){
         for(int i=0;i<n;i++) if(a[i]==x) return true;

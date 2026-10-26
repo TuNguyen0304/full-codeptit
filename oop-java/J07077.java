@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class non {
+public class J07077 {
 
     static boolean isN(String s){
         for(int i=0;i<s.length();i++){

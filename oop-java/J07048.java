@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class J07048{
     
     static class goods implements Comparable<goods>{
         String code, name;

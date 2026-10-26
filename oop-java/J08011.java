@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class non {
+public class J08011 {
     static boolean check(String a) {
         for (int i = 1; i < a.length(); i++) {
             if (a.charAt(i) < a.charAt(i - 1))

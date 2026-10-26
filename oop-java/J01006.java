@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J01006 {
     public static void main(String[] args){
         long[] f = new long[94];
         f[0]=0; f[1]=1;

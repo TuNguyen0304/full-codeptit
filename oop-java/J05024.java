@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class J05024 {
     static char up(char x) {
         if ('a' <= x && x <= 'z')
             return (char) ((int) x - 32);

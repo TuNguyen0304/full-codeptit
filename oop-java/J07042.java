@@ -4,7 +4,7 @@ package test;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J07042 {
     
     static int gcd(int a, int b){
         if(b==0) return a;
@@ -33,7 +33,7 @@ test/Pair.java
 package test;
 import java.io.*;
 
-public class Pair implements Serializable, Comparable<Pair>{
+public class J07042 implements Serializable, Comparable<Pair>{
     private int first, second;
 
     public Pair(int first, int second){

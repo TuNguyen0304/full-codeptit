@@ -3,7 +3,7 @@ import java.io.File;
 import java.math.BigInteger;
 import java.io.FileNotFoundException;
 
-public class Main{
+public class J07003{
     public static void main(String args[]){
         File x = new File("DATA.in");
         try{

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class J04005{
     static class person{
         String name, date;
         float a, b, c;

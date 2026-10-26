@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.TreeSet;
 import java.util.HashMap;
 
-public class test {
+public class J07007 {
     public static class WordSet{
         String str;
         public WordSet(String file){

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J02036 {
     static int gcd(int a, int b) {
         if (b == 0)
             return a;

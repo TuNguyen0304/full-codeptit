@@ -6,7 +6,7 @@ package test;
 import java.util.*;
 import java.io.*;
 
-public class Test {
+public class J07071 {
 
     static class ob{
         String sys,full, first, last;

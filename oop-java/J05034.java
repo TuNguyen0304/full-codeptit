@@ -1,6 +1,6 @@
 import java.util.*;
 import java.text.*;
-public class Main {
+public class J05034 {
     
     static class ob {
         String code, name, cl, mail, dn;

@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J03020 {
     
     static class word {
         String w;

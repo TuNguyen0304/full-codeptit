@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class non {
+public class J07078 {
 
     static boolean sub(String a, String b, int l, int r) {
         for (int i = 0; i < b.length(); i++) {

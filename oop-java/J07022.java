@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;;
 
-public class Main{
+public class J07022{
     public static void main(String[] arg)throws IOException {
         Scanner sc = new Scanner(new File("DATA.in"));
         // Scanner sc = new Scanner(System.in);

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J01004 {
 
     static boolean nt(int n){
         if(n<2) return false;

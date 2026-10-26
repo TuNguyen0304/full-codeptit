@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 import java.text.*;
-public class Main {
+public class J07049 {
 
     static String outdate(String s, long time){
         String[] a = s.split("/");

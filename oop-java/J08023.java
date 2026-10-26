@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class non {
+public class J08023 {
 
     static void min(long[] a, int[] b, int start, int end, int step, int root){
         Stack<Integer> st = new Stack<>();

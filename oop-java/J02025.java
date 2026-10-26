@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J02025 {
     static boolean primr(int x) {
         if (x < 2)
             return false;

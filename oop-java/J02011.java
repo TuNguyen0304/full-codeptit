@@ -2,7 +2,7 @@ package nyagami;
 
 import java.util.Scanner;
 
-public class test{
+public class J02011{
    
     static void out(int[] a, int n, int step){
         System.out.printf("Buoc %d: ",step);

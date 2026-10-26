@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J07085 {
     static int tcs(String s){
         int r = 0 ;
         for(int i=0;i<s.length();i++){

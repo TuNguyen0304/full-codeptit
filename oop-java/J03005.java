@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.ArrayDeque;
 import java.util.Queue;
 
-public class Main{
+public class J03005{
     static char up(char x){
         if('a'<=x && x<='z') return (char)((int)x-32);
         return x;

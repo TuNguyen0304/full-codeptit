@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class non {
+public class J01023 {
 
     static ArrayList<String> genn(String s){
         ArrayList<String> a = new ArrayList<>();

@@ -2,7 +2,7 @@ package nyagami;
 
 import java.util.Scanner;
 
-public class test{
+public class J02103{
     static int[][] trans(int[][] a, int n, int m){
         int[][] b = new int[m][n];
         for(int i=0; i<m; i++){

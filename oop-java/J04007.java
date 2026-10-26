@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class J04007{
     public static void main(String[] a) {
         Scanner sc=new Scanner(System.in);
         System.out.print("00001 ");

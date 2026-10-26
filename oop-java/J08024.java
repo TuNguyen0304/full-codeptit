@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J08024 {
     static ArrayList<Integer> dp = new ArrayList<>();
     static void Try(int i, int n, String s){
         dp.add(Integer.parseInt(s));

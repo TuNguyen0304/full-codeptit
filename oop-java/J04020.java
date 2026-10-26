@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class J04020{
     static boolean prime(Integer x){
         if(x<2) return false;
         if(x==2) return true;

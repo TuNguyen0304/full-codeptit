@@ -3,7 +3,7 @@ package pkg1.chuan_hoa_xau_ho_ten1;
 import java.util.Scanner;
 
 
-public class Chuan_hoa_xau_ho_ten1 {
+public class J03004 {
     
     static String edit(String s){
         String s1 = s.substring(0, 1);

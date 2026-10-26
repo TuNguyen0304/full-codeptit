@@ -1,7 +1,7 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class Main {
+public class J03024 {
     static boolean is(char x){
         if(x>='0' && x<='9') return true;
         return false;

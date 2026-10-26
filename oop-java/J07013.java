@@ -5,7 +5,7 @@ import java.io.*;
 import java.text.*;
 import java.util.*;
 
-public class SinhVien implements Serializable{
+public class J07013 implements Serializable{
     private String ma, ten, lop;
     private Date ngaysinh;
     private float gpa;
@@ -30,7 +30,7 @@ package danhsachsinhvien1;
 import java.util.*;
 import java.io.*;
 
-public class test {
+public class J07013 {
     public static void main(String[] args) throws IOException, ClassNotFoundException{
         ObjectInputStream o = new ObjectInputStream(new FileInputStream("SV.in"));
         ArrayList<SinhVien> a = (ArrayList<SinhVien>) o.readObject();

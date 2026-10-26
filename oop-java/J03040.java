@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main{
+public class J03040{
     static boolean inc(String s){
         for(int i=0; i<s.length()-1; i++){
             if(s.charAt(i) >= s.charAt(i+1)) return false;

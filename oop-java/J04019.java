@@ -1,7 +1,7 @@
 import java.io.InputStream;
 import java.util.*;
 
-public class Main {
+public class J04019 {
     
     
     static class Point{

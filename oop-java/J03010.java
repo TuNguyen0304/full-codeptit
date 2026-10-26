@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.HashMap;
 
-public class Main{
+public class J03010{
     static String mail(String s){
         String[] a = s.split("[' ']+");
         String r = a[a.length-1];

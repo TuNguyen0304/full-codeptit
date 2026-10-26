@@ -3,7 +3,7 @@ package nyagami;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class test{
+public class J02020{
     static int n, k, cnt=0;
     static void Try(int i, int start, int[] res){
         if(i==k){

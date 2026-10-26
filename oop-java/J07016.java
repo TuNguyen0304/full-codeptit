@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J07016 {
     static boolean isPrime(int n) {
         if (n < 2) return false;
         if (n % 2 == 0) return n == 2;

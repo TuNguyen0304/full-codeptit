@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J03023 {
     static HashMap<Character, Integer> a = new HashMap<>();
     static String LM = "MDCLXVI";
 

@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class J04006{
     static String conver(String d){
         String[] arr = d.split("/");
         for(int i=0; i<arr.length; i++){

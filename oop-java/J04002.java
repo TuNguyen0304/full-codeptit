@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main{
+public class J04002{
     static String st(String s){
         if(s.length()==1) return "" + Character.toUpperCase(s.charAt(0));
         s = s.toLowerCase();

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J07072 {
     static class ob{
         String full, first, last, mid;
         public ob(String name){

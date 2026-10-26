@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J03008 {
     static String nt="2357";
     static String check(String s){
         int n=s.length();

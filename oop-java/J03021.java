@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.math.BigInteger;
 
-public class Main{
+public class J03021{
     static char convert(char x){
         if("ABC".indexOf(x) > -1) return '2';
         if("DEF".indexOf(x) > -1) return '3';

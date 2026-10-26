@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class non {
+public class J07020 {
     static String stdName(String s) {
         String[] n = s.toLowerCase().trim().split("\\s+");
         String r = "";

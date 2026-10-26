@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Main {
+public class J01021 {
 
     static long mod=1000000007;
 

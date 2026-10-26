@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.text.*;
 
-public class Main{
+public class J07046{
     static long getTime(String s1, String s2) throws ParseException{
         SimpleDateFormat f = new SimpleDateFormat("dd/MM/yyyy");
         return f.parse(s2).getTime() - f.parse(s1).getTime();

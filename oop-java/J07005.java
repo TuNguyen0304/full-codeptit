@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class J07005{
     public static void main(String[] args) throws IOException, FileNotFoundException {
         DataInputStream is = new DataInputStream(new FileInputStream("DATA.IN"));
         TreeMap<Integer, Integer> a = new TreeMap<>();

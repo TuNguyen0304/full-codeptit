@@ -1,6 +1,5 @@
-
 import java.util.Scanner;
-public class Main {
+public class J01026 {
 
     static String cp(int n){
         int x=(int)Math.sqrt((double)n);

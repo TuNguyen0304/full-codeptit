@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Map;
 import java.util.HashMap;
 
-public class Main {
+public class J02007 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();

@@ -2,7 +2,7 @@ package nyagami;
 
 import java.util.Scanner;
 
-public class test{
+public class J02101{
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();

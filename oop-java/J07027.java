@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class Main {
+public class J07027 {
     static class bt{
         int code;
         String name;

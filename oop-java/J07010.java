@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class J07010{
     static String toD(String s){
         String[] d = s.split("/");
         for(int i=0; i<=1; i++){

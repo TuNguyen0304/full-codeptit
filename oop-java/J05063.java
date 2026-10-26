@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class J05063 {
 
     static class HangTu{
         int base, exp;

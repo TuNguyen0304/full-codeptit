@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class Main {
+public class J01010 {
     static char convert(char x) {
         if (x == '0')
             return '0';

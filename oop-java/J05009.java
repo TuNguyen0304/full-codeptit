@@ -1,6 +1,6 @@
 import java.util.*;
 import java.text.*;
-public class Main {
+public class J05009 {
     static String toD(String s) {
         String[] d = s.split("/");
         for (int i = 0; i <= 1; i++) {

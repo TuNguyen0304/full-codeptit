@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {  
+public class J05053 {  
     static long off(String s, long total){
         if (s.charAt(s.length()-1) == '1') return total/2;
         return total*3/10;

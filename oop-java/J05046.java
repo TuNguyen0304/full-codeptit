@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {  
+public class J05046 {  
     static long ck(long total, long sl){
         if(sl>10) return total/20;
         if(sl>=8) return total/50;

@@ -2,7 +2,7 @@ package nyagami;
 
 import java.util.Scanner;
 
-public class test{
+public class J01025{
     static int min4(int a,int b,int c,int d){
         return Math.min(Math.min(Math.min(a, b),c),d);
     }

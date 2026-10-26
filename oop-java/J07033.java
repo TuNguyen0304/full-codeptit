@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.TreeSet;
 
-public class Main{
+public class J07033{
     static char up(char x){
         if('a'<=x && x<='z') return (char)((int)x-32);
         return x;

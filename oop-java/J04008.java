@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main{
+public class J04008{
     static class pair{
         public pair(double a, double b){
             this.x = a;

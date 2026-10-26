@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main{
+public class J07015{
     public static void main(String[] args) throws IOException, ClassNotFoundException{
         boolean[] f = new boolean[100005];
         for(int i=2; i<f.length; i++) f[i]=true;

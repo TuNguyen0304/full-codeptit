@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.text.DecimalFormat;
 
-public class Main{
+public class J07053{
     static String stdDate(String s){
         String[] a = s.split("/");
         String r = "";

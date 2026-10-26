@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.text.*;
 
-public class Main {
+public class J07084 {
     static class ob{
         String full, start, end;
         long total;

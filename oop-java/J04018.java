@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J04018 {
     
     static class complex{
         int real, img;

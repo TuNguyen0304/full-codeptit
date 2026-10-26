@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J06007 {
     static String stdName(String s) {
         String[] n = s.toLowerCase().trim().split("\\s+");
         String r = "";

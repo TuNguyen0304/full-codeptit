@@ -1,10 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
 package test;
 import java.util.Scanner;
-public class Test {
+public class J01009 {
 
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);

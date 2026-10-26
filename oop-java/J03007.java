@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J03007 {
     static String check(String s){
         int n=s.length();
         if(s.charAt(n-1)!='8') return "NO";

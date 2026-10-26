@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J02026 {
     static void Try(int start, int cnt, int k, int[] a, String s){
         if(cnt==k){
             System.out.println(s);

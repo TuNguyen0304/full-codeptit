@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class test{
+public class J02013{
    
     static void out(int[] a, int n, int step){
         System.out.printf("Buoc %d: ", step);

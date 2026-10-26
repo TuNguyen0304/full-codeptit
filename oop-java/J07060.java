@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 import java.text.*;
-public class Main {
+public class J07060 {
     
     static class MT {
         String code, name, method;

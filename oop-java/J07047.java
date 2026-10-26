@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 import java.text.*;
 
-public class Main{
+public class J07047{
 
     static class phong{
         String c;

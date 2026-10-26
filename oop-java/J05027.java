@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class J05027 {
 
     static String first(String s){
         String[] a = s.split("\\s+");

@@ -1,7 +1,7 @@
 import java.math.*;
 import java.util.*;
 
-public class Main {
+public class J03018 {
 
     static int pow(int a, int b) {
         if (b == 0)

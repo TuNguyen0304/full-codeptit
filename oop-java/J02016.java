@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J02016 {
     static boolean check(long[] a){
         for(int i=a.length-1;i>=2;i--){
             int j=0, k=i-1;

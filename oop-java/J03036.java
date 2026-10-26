@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class non {
+public class J03036 {
 
     static int turn(String a, String b){
         if(a.length() != b.length()) return -1;

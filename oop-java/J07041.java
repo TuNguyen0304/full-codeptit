@@ -1,48 +1,50 @@
-import java.io.File;
-import java.io.IOException;
-import java.util.Scanner;
-import java.util.TreeSet;
+import java.io.*;
+import java.util.*;
 
-class WordSet {
-    private TreeSet<String> set;
+class Pair implements Serializable, Comparable<Pair> {
+    private int first, second;
 
-    public WordSet(String file) throws IOException {
-        set = new TreeSet<>();
-        Scanner sc = new Scanner(new File(file));
-        while (sc.hasNext()) set.add(sc.next().toLowerCase());
+    public Pair(int first, int second) {
+        this.first = first;
+        this.second = second;
     }
 
-    public WordSet(TreeSet<String> set) {
-        this.set = set;
+    public int getFirst() {
+        return first;
     }
 
-    public WordSet union(WordSet o) {
-        TreeSet<String> tmp = new TreeSet<>();
-        tmp.addAll(set);
-        tmp.addAll(o.set);
-        return new WordSet(tmp);
+    public int getSecond() {
+        return second;
     }
 
-    public WordSet intersection(WordSet o) {
-        TreeSet<String> tmp = new TreeSet<>();
-        for (String x : set)
-            if (o.set.contains(x)) tmp.add(x);
-        return new WordSet(tmp);
+    @Override
+    public int compareTo(Pair o) {
+        if (first != o.first) return first - o.first;
+        return second - o.second;
     }
 
     @Override
     public String toString() {
-        String s = "";
-        for (String x : set) s += (x + " ");
-        return s;
+        return "(" + first + ", " + second + ")";
     }
 }
 
-public class J07014 {
-    public static void main(String[] args) throws IOException {
-        WordSet s1 = new WordSet("DATA1.in");
-        WordSet s2 = new WordSet("DATA2.in");
-        System.out.println(s1.union(s2));
-        System.out.println(s1.intersection(s2));
+public class J07041 {
+    public static void main(String[] args) throws Exception {
+        ObjectInputStream in = new ObjectInputStream(new FileInputStream("DATA.in"));
+
+        ArrayList<Pair> list = (ArrayList<Pair>) in.readObject();
+
+        TreeSet<Pair> ts = new TreeSet<>();
+
+        for (Pair p : list) {
+            if (p.getFirst() < p.getSecond()) {
+                ts.add(p);
+            }
+        }
+
+        for (Pair p : ts) {
+            System.out.println(p);
+        }
     }
 }

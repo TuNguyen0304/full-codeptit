@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class non {
+public class J08025 {
 
     static class pair{
         int[] a;

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.text.*;
 
-public class Main {  
+public class J05060 {  
 
     static Double plus(Double a, Double b){
         if(a>=8 && b>=8) return 1.0;

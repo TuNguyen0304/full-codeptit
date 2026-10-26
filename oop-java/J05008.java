@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class non {
+public class J05008 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();

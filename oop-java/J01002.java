@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class J01002 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         int t = reader.nextInt();

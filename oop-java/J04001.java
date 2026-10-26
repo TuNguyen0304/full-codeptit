@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main{
+public class J04001{
     static class point{
         double x,y;
         public void get(Scanner sc){

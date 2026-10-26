@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class J02027 {
     static int uppper_bound(int l, int r, int[] a, int x){
         if(l>r) return l;
         int mid = (l+r)/2;

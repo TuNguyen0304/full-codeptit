@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class J03037 {
     static class pair {
         int x, y;
     }

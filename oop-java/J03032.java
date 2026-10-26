@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Stack;
 
-public class Main{
+public class J03032{
     public static void main(String[] arg){
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();

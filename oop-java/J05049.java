@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {  
+public class J05049 {  
     static long xuat(String code, long nhap){
         if(code.charAt(0) == 'A') return Math.round(nhap*0.6);
         else return Math.round(nhap*0.7);

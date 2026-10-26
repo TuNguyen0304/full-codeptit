@@ -7,7 +7,7 @@ import java.util.*;
 import java.io.*;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-public class Test {
+public class J07059 {
 
     static class ob{
         String code, date, time,room;

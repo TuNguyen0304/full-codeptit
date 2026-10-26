@@ -1,6 +1,6 @@
 import java.util.*;
 import java.text.*;
-public class Main {
+public class J05011 {
 
     static class o {
         String code, name, tin, tout;

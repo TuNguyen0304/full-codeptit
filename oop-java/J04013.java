@@ -1,7 +1,7 @@
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Main {
+public class J04013 {
 
     private static class ThiSinh {
         private String id, name;

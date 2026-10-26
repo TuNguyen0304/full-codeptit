@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 import java.util.*;
 
-public class Main {
+public class J05012 {
 
     static class ob {
         String code, name;
